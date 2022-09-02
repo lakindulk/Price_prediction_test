@@ -13,6 +13,7 @@ flatbuffers==1.12
 gast==0.4.0
 googleapis-common-protos==1.56.1
 grpcio==1.46.3
+gunicorn==20.1.0
 grpcio-status==1.46.3
 h5py==3.7.0
 httplib2==0.20.4
